@@ -6,3 +6,7 @@ Severe acute respiratory syndrome (SARS) is a viral respiratory illness caused b
 This dataset found from the website Kaggle includes total of 2538 records of SARS from 3/17/2003 to 7/11/2003. \
 It does not match the total case numbers reported by WHO(World Health Organization) so there are some missing data however, it still depicts the trend similar to actual numbers. \
 There were total of 37 countries reported the case of SARS and among them, China had the highest confirmed cases. 
+
+## Data visualization 
+https://public.tableau.com/profile/bee.kim#!/vizhome/SARS2003_15874997432140/Dashboard1
+
